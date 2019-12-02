@@ -1,9 +1,3 @@
-<p align="center">
-  <!-- <i>FASTOD</i>
-  <br/><span>&#9783;</span> <span>&#10141;</span> :bar_chart:-->
-  <br/><sup>Fastod algorithm implementation</sup>
-</p>
-
 ## What is Fastod?
 Fastod is the subject of my Computer Science thesis and it's an algorithm which efficiently discovers a complete and minimal set of set-based ODs extracted from a dataset. This is done with [Java](https://www.java.com/it/download/) and [Lucene OpenBitset](https://lucene.apache.org/core/3_0_3/api/core/org/apache/lucene/util/OpenBitSet.html).
 
