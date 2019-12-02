@@ -13,7 +13,7 @@ Development-related progress can be seen in the `develop` branch. Keep reading i
 ```bash
 $ git clone https://github.com/buonincontrigi/FASTOD.git
 ```
-- Open project folder into NetBeans and load all lib dependencies from "lib" folder.
+- Open project folder (FASTOD_algorithm) into NetBeans and load all lib dependencies from "lib" folder.
 - Enter the command line parameter in the netbeans settings to select the path of the dataset (complete with .csv extension) to be analyzed.
 
 Datasets must be a .csv file structured as follows:
